@@ -1,10 +1,10 @@
 {
   "name": "x-bio-pv",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "authors": [
-    "Anonymous <contact.daviddao@gmail.com>"
+    "David Dao <contact.daviddao@gmail.com>"
   ],
-  "description": "web component wrapper for bio-pv",
+  "description": "BioJS next web component wrapper for bio-pv",
   "keywords": [
     "web-component",
     "polymer",
