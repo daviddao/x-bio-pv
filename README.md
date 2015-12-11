@@ -1,6 +1,6 @@
 # x-bio-pv
 
-<img src="http://i.imgur.com/fAZomiz.png" style="float:left;margin-right:2px"/>
+<img src="http://i.imgur.com/I9HurIz.png"/>
 
 A BioJS next web component interface for <a href="http://biojs.io/d/bio-pv">bio-pv</a>
 
